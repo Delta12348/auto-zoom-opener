@@ -1,4 +1,4 @@
 #!/bin/bash
 cd /home/$USER/auto-zoom-opener
-python3 zoom-opener.py
+python3 zoom_opener.py
 exit
