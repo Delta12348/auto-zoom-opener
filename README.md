@@ -34,3 +34,5 @@ Unless you have a unix terminal installed, you can follow the process above. If 
 1. Since Windows cannot access shell files, you can delete startup.sh file. 
 2. Just copy and paste the zoom-opener.py into the startmenu located in e.g. `C:\Users\Anmol\AppData\Roaming\Microsoft\Windows\Start Menu\Programs`
 3. Adjust the properties of the python file to run as a script and not as text 
+  * Right Click the zoom-opener.py and select properties
+  * Be sure to select to the Python application before any other program. 
